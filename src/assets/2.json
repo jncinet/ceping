@@ -1,0 +1,264 @@
+{
+  "data": {
+    "id": 2,
+    "title": "管理能力自测",
+    "type": "between",
+    "thumbnail": "https://cp.xiongqi.net.cn/json/thumbnails/1.png",
+    "description": "以下5道题，表示肯定的计1分，表示否定的计0分。做完后将总分与结果对照",
+    "content": "以下5道题，表示肯定的计1分，表示否定的计0分。做完后将总分与结果对照",
+    "questions": [
+      {
+        "question": "习惯于行动之前制定计划？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "经常处于效率上的考虑而更改计划？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "能经常收集他人的各种反映？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "实现目标是解决问题的继续？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "临睡前思考筹划明天要做的事情？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "事物上的联系、指令常常是一丝不苟？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "有经常记录自己行动的习惯？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "能严格制约自己的行动？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "无论何时何地，都能有目的的行动？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "能经常思考对策，扫除实现目标中的障碍？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "能每天检查自己当天的行动效率？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "经常严格查对预定目标和实际成绩？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "对工作的成果非常敏感？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "今天预先安排的工作决不拖到明天？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      },
+      {
+        "question": "习惯于在掌握有关信息基础上制定目标和计划？",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "是的"
+          },
+          {
+            "label": "B",
+            "value": 0,
+            "text": "不是"
+          }
+        ]
+      }
+    ],
+    "answer": [
+      {
+        "min": 0,
+        "max": 5,
+        "description": "管理能力很差。但你具有较高的艺术创造力，适合从事与艺术有关的具体工作。"
+      },
+      {
+        "min": 6,
+        "max": 9,
+        "description": "管理能力较差。这可能与你言行自由，不服约束有关。"
+      },
+      {
+        "min": 10,
+        "max": 12,
+        "description": "管理能力一般，对你的专业方面的事务性管理尚可。管理方法经常受到情绪的干扰是最大的遗憾。"
+      },
+      {
+        "min": 13,
+        "max": 14,
+        "description": "管理能力较强。能稳重、扎实地作好工作，很少出现以外或有损组织发展的失误。"
+      },
+      {
+        "min": 15,
+        "max": 15,
+        "description": "管理能力很强。擅长有计划地工作和学习，尤其适合管理大型组织。"
+      }
+    ]
+  }
+}

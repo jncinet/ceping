@@ -1,0 +1,299 @@
+{
+  "data": {
+    "id": 6,
+    "title": "了解自己的自信心程度",
+    "type": "between",
+    "thumbnail": "https://cp.xiongqi.net.cn/json/thumbnails/1.png",
+    "description": "请在下列各题所列备选答案中选择最符合你的一项",
+    "content": "请在下列各题所列备选答案中选择最符合你的一项",
+    "questions": [
+      {
+        "question": "在理论上，你对自己的评价是",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "勉强及格"
+          },
+          {
+            "label": "B",
+            "value": 2,
+            "text": "我已尽力，但能更好"
+          },
+          {
+            "label": "C",
+            "value": 3,
+            "text": "我已尽了最大努力"
+          }
+        ]
+      },
+      {
+        "question": "你喜欢孤独?",
+        "options": [
+          {
+            "label": "A",
+            "value": 3,
+            "text": "有时"
+          },
+          {
+            "label": "B",
+            "value": 2,
+            "text": "时常"
+          },
+          {
+            "label": "C",
+            "value": 1,
+            "text": "从来不喜欢"
+          }
+        ]
+      },
+      {
+        "question": "你对自己的活力程度评价如何?",
+        "options": [
+          {
+            "label": "A",
+            "value": 3,
+            "text": "很高。我每星期至少运动3次，我是个喜欢体力活动的人"
+          },
+          {
+            "label": "B",
+            "value": 3,
+            "text": "中等。我放学后偶尔运动"
+          },
+          {
+            "label": "C",
+            "value": 1,
+            "text": "低。我不喜欢经常运动，我宁愿闲逛"
+          }
+        ]
+      },
+      {
+        "question": "你喝酒抽烟？",
+        "options": [
+          {
+            "label": "A",
+            "value": 3,
+            "text": "从来没有"
+          },
+          {
+            "label": "B",
+            "value": 2,
+            "text": "有时参加宴会的时候有过"
+          },
+          {
+            "label": "C",
+            "value": 1,
+            "text": "常常"
+          }
+        ]
+      },
+      {
+        "question": "你离家出走过没有",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "有"
+          },
+          {
+            "label": "B",
+            "value": 3,
+            "text": "没有"
+          }
+        ]
+      },
+      {
+        "question": "你曾有消极度日?",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "有过"
+          },
+          {
+            "label": "B",
+            "value": 3,
+            "text": "没有"
+          }
+        ]
+      },
+      {
+        "question": "你对自己的外表感觉如何?",
+        "options": [
+          {
+            "label": "A",
+            "value": 2,
+            "text": "假如我的体重能减轻，我会对自己的外表很满意"
+          },
+          {
+            "label": "B",
+            "value": 1,
+            "text": "只有穿着最好的衣服时，才会觉得自己有吸引力"
+          },
+          {
+            "label": "C",
+            "value": 3,
+            "text": "我对自己的外表很满意"
+          }
+        ]
+      },
+      {
+        "question": "有人告诉你今天你的头发及穿着很美，你会：",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "告诉他，他需要戴眼镜或更换一副新的眼镜"
+          },
+          {
+            "label": "B",
+            "value": 3,
+            "text": "谢谢他，并且微微一笑"
+          },
+          {
+            "label": "C",
+            "value": 1,
+            "text": "觉得不安，不知道他是否在开玩笑"
+          }
+        ]
+      },
+      {
+        "question": "你计划星期六和朋友去玩乒乓球，但他们要去看电影，你选择：",
+        "options": [
+          {
+            "label": "A",
+            "value": 2,
+            "text": "去玩乒乓球，但却希望自己是在看电影"
+          },
+          {
+            "label": "B",
+            "value": 3,
+            "text": "到电影院和朋友会合"
+          },
+          {
+            "label": "C",
+            "value": 1,
+            "text": "留在家里，你无法决定怎样做"
+          }
+        ]
+      },
+      {
+        "question": "你被提名参加竞选某社团主席职位，你希望得到那个职位，但你的朋友认为参与社会工作是浪费时间的事，你会：",
+        "options": [
+          {
+            "label": "A",
+            "value": 3,
+            "text": "接受提名，展开竞选活动"
+          },
+          {
+            "label": "B",
+            "value": 1,
+            "text": "拒绝提名，因为你没有把握获胜"
+          },
+          {
+            "label": "C",
+            "value": 1,
+            "text": "拒绝提名，因为你不愿意朋友们认为你是无聊分子"
+          }
+        ]
+      },
+      {
+        "question": "当你的爱人送你一个名贵的定情礼物给你时，你会：",
+        "options": [
+          {
+            "label": "A",
+            "value": 3,
+            "text": "送他一份同样价值的礼物"
+          },
+          {
+            "label": "B",
+            "value": 1,
+            "text": "接受礼物，但宁愿他送一件不那么名贵的礼物"
+          },
+          {
+            "label": "C",
+            "value": 1,
+            "text": "接受礼物，但宁愿他送一件较低价的礼物"
+          }
+        ]
+      },
+      {
+        "question": "你的父母介绍你认识他们的朋友，你会：",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "向他们看了一看，低声打个招呼"
+          },
+          {
+            "label": "B",
+            "value": 1,
+            "text": "只看了他们一眼，点了点头(你见过太多父母的朋友，你已毫不在意)"
+          },
+          {
+            "label": "C",
+            "value": 3,
+            "text": "亲切地微笑，介绍时看着他们的眼睛"
+          }
+        ]
+      },
+      {
+        "question": "当你和上司或老板讲话时，你的眼睛：",
+        "options": [
+          {
+            "label": "A",
+            "value": 1,
+            "text": "不敢看着他，左顾右盼"
+          },
+          {
+            "label": "B",
+            "value": 1,
+            "text": "只偷偷看看他，表示害怕"
+          },
+          {
+            "label": "C",
+            "value": 3,
+            "text": "与他的眼睛对看，表情自然，不亢不卑"
+          }
+        ]
+      },
+      {
+        "question": "你的好朋友当选领导职务，你会：",
+        "options": [
+          {
+            "label": "A",
+            "value": 3,
+            "text": "由衷地为他的成功高兴"
+          },
+          {
+            "label": "B",
+            "value": 1,
+            "text": "你为自己没得到那份荣誉而生气"
+          },
+          {
+            "label": "C",
+            "value": 1,
+            "text": "烦恼，认为他没有什么了不起的地方"
+          }
+        ]
+      }
+    ],
+    "answer": [
+      {
+        "min": 0,
+        "max": 20,
+        "description": "自信心较差，对自己的满意度很低。"
+      },
+      {
+        "min": 21,
+        "max": 32,
+        "description": "有一定的自信心，但缺乏主动，容易气馁"
+      },
+      {
+        "min": 33,
+        "max": 99,
+        "description": "高度自信，有明确的目标，也会不断付出努力向目标迈进"
+      }
+    ]
+  }
+}
